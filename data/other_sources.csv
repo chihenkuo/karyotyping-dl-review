@@ -1,0 +1,15 @@
+Key,Year,Title,DOI,Task category
+hu2017overlap,2017,Image Segmentation to Distinguish Between Overlapping Human Chromosomes,10.48550/arXiv.1712.07639,Segmentation
+wang2021arms,2021,ARMS Net: Overlapping chromosome segmentation based on Adaptive Receptive field Multi-Scale network,10.1016/j.bspc.2021.102811,Segmentation
+liu2023disentangled,2023,Learning Disentangled Representation for Chromosome Straightening,10.1080/01969722.2023.2296250,Straightening
+zheng2022chrsnet,2022,ChrSNet: Chromosome Straightening Using Self-attention Guided Networks,10.1007/978-3-031-16440-8_12,Straightening
+lima2026aycromo,2026,Aycromo: An Open-Source Platform for Automatic Chromosome Detection in Metaphase Images Based on Deep Learning,10.48550/arXiv.2604.24685,System / clinical evaluation
+chang2023supcon,2023,Supervised Contrastive Learning for Fine-grained Chromosome Recognition,10.48550/arXiv.2312.07623,Classification
+zhao2023contrastive,2024,Enhanced label constrained contrastive learning for chromosome optical microscopic image classification,10.1016/j.bspc.2023.105825,Classification
+shamsi2022karyoai,2022,Karyotype AI for Precision Oncology,10.48550/arXiv.2211.14312,Abnormality detection
+tokensome2024,2024,Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping,10.48550/arXiv.2403.11073,Classification
+yan2019t922,2019,Detection of t(9;22) Chromosome Translocation Using Deep Residual Neural Network,10.4236/jcc.2019.712010,Abnormality detection
+zhang2026perturb,2026,Perturb-and-Restore: Simulation-driven Structural Augmentation Framework for Imbalance Chromosomal Anomaly Detection,10.48550/arXiv.2604.00854,Abnormality detection
+haferlach2020,2020,Artificial Intelligence Substantially Supports Chromosome Banding Analysis Maintaining Its Strengths in Hematologic Diagnostics Even in the Era of Newer Technologies,10.1182/blood-2020-137463,System / clinical evaluation
+kayra2026,2026,KAYRA: A Microservice Architecture for AI-Assisted Karyotyping with Cloud and On-Premise Deployment,10.48550/arXiv.2604.26869,System / clinical evaluation
+burnside2025gimo,2025,P684: Improved karyotyping efficiency with artificial intelligence: A multicenter evaluation of peripheral blood karyogram,10.1016/j.gimo.2025.103053,System / clinical evaluation

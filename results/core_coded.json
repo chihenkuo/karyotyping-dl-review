@@ -1,0 +1,611 @@
+[
+ {
+  "key": "sharma2017crowd",
+  "year": 2017,
+  "period": "2017–2020",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "swati2017siamese",
+  "year": 2017,
+  "period": "2017–2020",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "sharma2018attention",
+  "year": 2018,
+  "period": "2017–2020",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "zhang2018cnn",
+  "year": 2018,
+  "period": "2017–2020",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "qin2019varifocal",
+  "year": 2019,
+  "period": "2017–2020",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "hu2019cmb",
+  "year": 2019,
+  "period": "2017–2020",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "xie2019statistical",
+  "year": 2019,
+  "period": "2017–2020",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "yan2019t922",
+  "year": 2019,
+  "period": "2017–2020",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "li2020csganomaly",
+  "year": 2020,
+  "period": "2017–2020",
+  "data": "B",
+  "external": false
+ },
+ {
+  "key": "alkharraz2020",
+  "year": 2020,
+  "period": "2017–2020",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "xiao2021deepacc",
+  "year": 2021,
+  "period": "2021–2023",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "zhang2021multitask",
+  "year": 2021,
+  "period": "2021–2023",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "lin2022cirnet",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "wei2022uncertainty",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "liu2022sras",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "lin2022chromnetdata",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "vajen2021",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "uzolas2022",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "B",
+  "external": false
+ },
+ {
+  "key": "shamsi2022karyoai",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "xia2023karyonet",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "chang2023supcon",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "wang2024aplm",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "yang2023mep",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "wang2023down",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "B",
+  "external": false
+ },
+ {
+  "key": "he2023ffcdw",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "zhao2023contrastive",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "B",
+  "external": false
+ },
+ {
+  "key": "chang2024triple",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "chen2024brchromnet",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "zhang2024dino",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "tokensome2024",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "yang2025chroma",
+  "year": 2025,
+  "period": "2024–2026",
+  "data": "C",
+  "external": true
+ },
+ {
+  "key": "chen2026twostep",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "P",
+  "external": true
+ },
+ {
+  "key": "wang2026axialformer",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "B",
+  "external": true
+ },
+ {
+  "key": "zhang2026csnet",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "zhang2026perturb",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "li2026deepkaryocheck",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "rosas2026",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "alsubaie2026",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "ding2019fasterrcnn",
+  "year": 2019,
+  "period": "2017–2020",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "xiao2020deepacev2",
+  "year": 2020,
+  "period": "2017–2020",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "bai2020yolov3",
+  "year": 2020,
+  "period": "2017–2020",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "andrade2020crcnne",
+  "year": 2020,
+  "period": "2017–2020",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "wang2023deepchm",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "xia2024chromtr",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "B",
+  "external": false
+ },
+ {
+  "key": "chavan2024",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "kuo2025chromosomenet",
+  "year": 2025,
+  "period": "2024–2026",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "lima2026aycromo",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "hu2017overlap",
+  "year": 2017,
+  "period": "2017–2020",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "saleh2019",
+  "year": 2019,
+  "period": "2017–2020",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "altinsoy2019",
+  "year": 2019,
+  "period": "2017–2020",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "cao2020chromseg",
+  "year": 2020,
+  "period": "2017–2020",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "wang2021arms",
+  "year": 2021,
+  "period": "2021–2023",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "song2021npl",
+  "year": 2021,
+  "period": "2021–2023",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "wang2021rotatedmask",
+  "year": 2021,
+  "period": "2021–2023",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "mei2022amfl",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "kluvanec2022",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "huang2021clinicaldataset",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "liu2022rcnet",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "luo2023supcam",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "joshi2023swin",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "yu2023adaptive2former",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "hu2023rcmask",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "you2023autokary",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "fan2024dacseg",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "chen2024karyoxpert",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "C",
+  "external": true
+ },
+ {
+  "key": "liu2025esnet",
+  "year": 2025,
+  "period": "2024–2026",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "tseng2025mcsegnet",
+  "year": 2025,
+  "period": "2024–2026",
+  "data": "C",
+  "external": true
+ },
+ {
+  "key": "umbreen2025sam",
+  "year": 2025,
+  "period": "2024–2026",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "remani2025p3gan",
+  "year": 2025,
+  "period": "2024–2026",
+  "data": "P",
+  "external": false
+ },
+ {
+  "key": "song2021straighten",
+  "year": 2021,
+  "period": "2021–2023",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "zheng2022chrsnet",
+  "year": 2022,
+  "period": "2021–2023",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "song2023vitpatch",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "liu2023disentangled",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "nguyen2023stn",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "li2024mcvae",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "peng2024latent",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "U",
+  "external": false
+ },
+ {
+  "key": "zhang2023chromeda",
+  "year": 2023,
+  "period": "2021–2023",
+  "data": "B",
+  "external": true
+ },
+ {
+  "key": "chen2024rvc",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "C",
+  "external": true
+ },
+ {
+  "key": "chang2025icip",
+  "year": 2025,
+  "period": "2024–2026",
+  "data": "C",
+  "external": true
+ },
+ {
+  "key": "cai2026gcrl",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "B",
+  "external": true
+ },
+ {
+  "key": "zhong2026fl",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "C",
+  "external": true
+ },
+ {
+  "key": "wu2026ijms",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "C",
+  "external": true
+ },
+ {
+  "key": "haferlach2020",
+  "year": 2020,
+  "period": "2017–2020",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "zhou2024das",
+  "year": 2024,
+  "period": "2024–2026",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "zhu2025humgen",
+  "year": 2025,
+  "period": "2024–2026",
+  "data": "C",
+  "external": false
+ },
+ {
+  "key": "burnside2025gimo",
+  "year": 2025,
+  "period": "2024–2026",
+  "data": "C",
+  "external": true
+ },
+ {
+  "key": "kayra2026",
+  "year": 2026,
+  "period": "2024–2026",
+  "data": "U",
+  "external": false
+ }
+]

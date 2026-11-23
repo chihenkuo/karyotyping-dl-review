@@ -1,0 +1,88 @@
+key,year,task_category,data_source,external_validation
+sharma2017crowd,2017,Segmentation,C,N
+swati2017siamese,2017,Classification,C,N
+sharma2018attention,2018,Classification,P,N
+zhang2018cnn,2018,Classification,C,N
+qin2019varifocal,2019,Classification,C,N
+hu2019cmb,2019,Classification,P,N
+xie2019statistical,2019,Classification,C,N
+yan2019t922,2019,Abnormality detection,C,N
+li2020csganomaly,2020,Abnormality detection,B,N
+alkharraz2020,2020,Abnormality detection,C,N
+xiao2021deepacc,2021,Classification,C,N
+zhang2021multitask,2021,Straightening,C,N
+lin2022cirnet,2022,Classification,P,N
+wei2022uncertainty,2022,Classification,C,N
+liu2022sras,2022,Classification,P,N
+lin2022chromnetdata,2022,Dataset / other,P,N
+vajen2021,2022,Classification,C,N
+uzolas2022,2022,Abnormality detection,B,N
+shamsi2022karyoai,2022,Abnormality detection,C,N
+xia2023karyonet,2023,Classification,C,N
+chang2023supcon,2023,Classification,U,N
+wang2024aplm,2023,Classification,C,N
+yang2023mep,2023,Abnormality detection,C,N
+wang2023down,2023,Abnormality detection,B,N
+he2023ffcdw,2023,Abnormality detection,C,N
+zhao2023contrastive,2024,Classification,B,N
+chang2024triple,2024,Classification,C,N
+chen2024brchromnet,2024,Abnormality detection,C,N
+zhang2024dino,2024,Abnormality detection,C,N
+tokensome2024,2024,Classification,U,N
+yang2025chroma,2025,Cross-site / generalization,C,Y
+chen2026twostep,2026,Classification,P,Y
+wang2026axialformer,2026,Classification,B,Y
+zhang2026csnet,2026,Abnormality detection,C,N
+zhang2026perturb,2026,Abnormality detection,C,N
+li2026deepkaryocheck,2026,Abnormality detection,C,N
+rosas2026,2026,Detection / enumeration,P,N
+alsubaie2026,2026,System / clinical evaluation,C,N
+ding2019fasterrcnn,2019,Classification,C,N
+xiao2020deepacev2,2020,Detection / enumeration,C,N
+bai2020yolov3,2020,Detection / enumeration,U,N
+andrade2020crcnne,2020,Classification,P,N
+wang2023deepchm,2023,Detection / enumeration,C,N
+xia2024chromtr,2024,Detection / enumeration,B,N
+chavan2024,2024,Classification,U,N
+kuo2025chromosomenet,2025,Detection / enumeration,P,N
+lima2026aycromo,2026,System / clinical evaluation,P,N
+hu2017overlap,2017,Segmentation,P,N
+saleh2019,2019,Segmentation,P,N
+altinsoy2019,2019,Segmentation,C,N
+cao2020chromseg,2020,Segmentation,P,N
+wang2021arms,2021,Segmentation,P,N
+song2021npl,2021,Segmentation,U,N
+wang2021rotatedmask,2021,Segmentation,U,N
+mei2022amfl,2022,Segmentation,P,N
+kluvanec2022,2022,Segmentation,P,N
+huang2021clinicaldataset,2022,Dataset / other,P,N
+liu2022rcnet,2022,Segmentation,U,N
+luo2023supcam,2023,Segmentation,P,N
+joshi2023swin,2023,Segmentation,P,N
+yu2023adaptive2former,2023,Segmentation,U,N
+hu2023rcmask,2023,Segmentation,U,N
+you2023autokary,2023,Dataset / other,P,N
+fan2024dacseg,2024,Segmentation,C,N
+chen2024karyoxpert,2024,Segmentation,C,Y
+liu2025esnet,2025,Segmentation,C,N
+tseng2025mcsegnet,2025,Segmentation,C,Y
+umbreen2025sam,2025,Segmentation,U,N
+remani2025p3gan,2025,Dataset / other,P,N
+song2021straighten,2021,Straightening,U,N
+zheng2022chrsnet,2022,Straightening,U,N
+song2023vitpatch,2023,Straightening,U,N
+liu2023disentangled,2023,Straightening,U,N
+nguyen2023stn,2023,Classification,U,N
+li2024mcvae,2024,Straightening,U,N
+peng2024latent,2024,Straightening,U,N
+zhang2023chromeda,2023,Cross-site / generalization,B,Y
+chen2024rvc,2024,Cross-site / generalization,C,Y
+chang2025icip,2025,Cross-site / generalization,C,Y
+cai2026gcrl,2026,Cross-site / generalization,B,Y
+zhong2026fl,2026,Cross-site / generalization,C,Y
+wu2026ijms,2026,System / clinical evaluation,C,Y
+haferlach2020,2020,System / clinical evaluation,C,N
+zhou2024das,2024,System / clinical evaluation,C,N
+zhu2025humgen,2025,System / clinical evaluation,C,N
+burnside2025gimo,2025,System / clinical evaluation,C,Y
+kayra2026,2026,System / clinical evaluation,U,N

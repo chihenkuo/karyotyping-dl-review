@@ -1,0 +1,208 @@
+﻿id,year,period,task,doi,has_abstract,venue,data,external,patient_split,code,arch:CNN classifier,arch:Object detector,arch:Segmentation network,arch:Transformer,arch:Generative model,"arch:Foundation, SSL or language model",arch:Graph or recurrent model,spec:Amniotic fluid / prenatal,spec:Peripheral blood,spec:Bone marrow / oncology,band:G-band,band:Q-band / DAPI,band:R-band,band:Multicolour FISH
+R001,2021,2021–2023,Classification,10.1109/isbi48211.2021.9433943,True,Conference,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R002,2018,2017–2020,Classification,10.1109/icfsp.2018.8552042,True,Conference,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R004,2022,2021–2023,Segmentation,10.1109/radioelektronika54537.2022.9764950,True,Conference,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R005,2021,2021–2023,Segmentation,10.1109/embc46164.2021.9630695,True,Conference,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R006,2024,2024–2026,Cross-site / generalization,10.1109/iccbd-ai65562.2024.00085,True,Conference,Private only,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+R007,2018,2017–2020,Classification,10.1109/cisp-bmei.2018.8633228,True,Conference,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R008,2020,2017–2020,Detection / enumeration,10.1109/tmi.2020.3007642,True,Journal,Not stated,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+R009,2024,2024–2026,Metaphase selection,10.1109/icacc63692.2024.10845351,True,Conference,Public only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R010,2024,2024–2026,Segmentation,10.1109/icacc63692.2024.10845581,True,Conference,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R011,2022,2021–2023,Segmentation,10.1109/icspis56952.2022.10043946,True,Conference,Not stated,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+R012,2026,2024–2026,Abnormality detection,10.1109/icdsbs69077.2026.11634989,True,Conference,Public only,False,False,False,True,False,False,True,False,False,False,True,False,False,True,False,False,False
+R013,2022,2021–2023,Metaphase selection,10.1109/icict54344.2022.9850651,True,Conference,Not stated,False,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False
+R014,2023,2021–2023,Classification,10.1109/tmi.2023.3268889,True,Journal,Private only,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,True,False
+R015,2025,2024–2026,Cross-site / generalization,10.1109/icip55913.2025.11084686,True,Conference,Not stated,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+R016,2023,2021–2023,Classification,10.1109/ssp53291.2023.10208061,True,Conference,Not stated,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+R017,2025,2024–2026,Abnormality detection,10.1109/isacc65211.2025.10969161,True,Conference,Not stated,False,False,False,True,True,False,False,False,False,False,False,False,True,False,False,False,False
+R018,2023,2021–2023,Classification,10.1109/wiecon-ece60392.2023.10456512,True,Conference,Private only,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False
+R019,2025,2024–2026,Detection / enumeration,10.1109/ojemb.2024.3512932,True,Journal,Private only,True,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,False
+R020,2025,2024–2026,Segmentation,10.1109/iccc64910.2025.11077188,True,Conference,Not stated,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R022,2025,2024–2026,Classification,10.1109/ieeeconf64992.2025.10962892,True,Conference,Not stated,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+R023,2024,2024–2026,System / clinical evaluation,10.1109/access.2024.3380829,True,Journal,Public and private,False,False,True,True,False,True,False,False,False,False,False,False,False,True,True,False,False
+R024,2023,2021–2023,Classification,10.1109/iceace60673.2023.10442805,True,Conference,Private only,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R025,2026,2024–2026,Detection / enumeration,10.1109/jcsse68839.2026.11596649,True,Conference,Not stated,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+R026,2019,2017–2020,Classification,10.1109/cisp-bmei48845.2019.8965713,True,Conference,Not stated,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+R027,2024,2024–2026,Straightening,10.1109/tmi.2023.3293854,True,Journal,Public only,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+R028,2023,2021–2023,Segmentation,10.1109/isbi53787.2023.10230648,True,Conference,Not stated,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+R029,2026,2024–2026,Classification,10.1109/aide69088.2026.11545006,True,Conference,Not stated,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+R030,2019,2017–2020,Classification,10.1109/tmi.2019.2905841,True,Journal,Private only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R031,2020,2017–2020,Abnormality detection,10.1109/ibdap50342.2020.9245608,True,Conference,Private only,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,True
+R032,2024,2024–2026,Dataset / other,10.1109/delcon64804.2024.10867202,True,Conference,Not stated,False,False,False,False,False,True,True,True,False,False,False,False,True,False,False,False,False
+R033,2024,2024–2026,Segmentation,10.23919/eusipco63174.2024.10715369,True,Conference,Not stated,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+R034,2025,2024–2026,Classification,10.1109/rmkmate64874.2025.11042504,True,Conference,Public only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R035,2021,2021–2023,Dataset / other,10.1109/ccisp52774.2021.9639263,True,Conference,Public only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R037,2024,2024–2026,Straightening,10.1109/iccbd-ai65562.2024.00049,True,Conference,Not stated,False,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False
+R038,2020,2017–2020,System / clinical evaluation,10.1109/nics51282.2020.9335893,True,Conference,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R039,2022,2021–2023,Abnormality detection,10.1109/access.2022.3178786,True,Journal,Not stated,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+R040,2025,2024–2026,Classification,10.1109/icoact63339.2025.11005051,True,Conference,Public only,False,False,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+R041,2023,2021–2023,Detection / enumeration,10.1109/jbhi.2023.3286572,True,Journal,Public only,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R042,2024,2024–2026,Abnormality detection,10.1109/icacrs62842.2024.10841578,True,Conference,Public only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R043,2022,2021–2023,Dataset / other,10.1109/icce55644.2022.9852034,True,Conference,Private only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R044,2020,2017–2020,Detection / enumeration,10.1109/access.2020.3026483,True,Journal,Not stated,False,False,False,False,True,True,False,False,False,False,False,False,False,True,False,False,False
+R045,2019,2017–2020,Classification,10.1109/access.2019.2951723,True,Journal,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R046,2020,2017–2020,Classification,10.1109/cvidl51233.2020.00-79,True,Conference,Private only,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False
+R047,2020,2017–2020,Classification,10.1109/accthpa49271.2020.9213238,True,Conference,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R048,2025,2024–2026,Segmentation,10.1109/icbip66535.2025.11284451,True,Conference,Not stated,False,False,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False
+R049,2020,2017–2020,Abnormality detection,10.1109/access.2020.3019937,True,Journal,Private only,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+R050,2025,2024–2026,Metaphase selection,10.1109/ictest64710.2025.11042662,True,Conference,Not stated,False,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False
+R051,2020,2017–2020,Segmentation,10.1109/embc44109.2020.9176020,True,Conference,Public only,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R052,2025,2024–2026,Abnormality detection,10.1109/aimla63829.2025.11041444,True,Conference,Not stated,False,False,False,False,False,True,True,False,False,False,False,False,False,True,False,False,False
+R053,2025,2024–2026,Segmentation,10.1109/3m-nano65639.2025.11261197,True,Conference,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R055,2020,2017–2020,Metaphase selection,10.1109/accthpa49271.2020.9213212,True,Conference,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+R056,2022,2021–2023,Classification,10.1109/tcbb.2020.3003445,True,Journal,Public only,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+R057,2023,2021–2023,System / clinical evaluation,10.1109/access.2023.3344664,True,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R059,2022,2021–2023,Detection / enumeration,10.1109/iceic54506.2022.9748307,True,Conference,Not stated,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+R060,2017,2017–2020,Classification,10.1109/iccvw.2017.17,True,Conference,Private only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R061,2023,2021–2023,Abnormality detection,10.1109/iceconf57129.2023.10083710,True,Conference,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R062,2018,2017–2020,Classification,10.1109/icip.2018.8451041,True,Conference,Not stated,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+R063,2020,2017–2020,Classification,10.1109/access.2020.3034684,True,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+R064,2021,2021–2023,Straightening,10.1109/jbhi.2021.3062234,True,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R066,2023,2021–2023,Straightening,10.1109/isbi53787.2023.10230388,True,Conference,Not stated,False,False,False,True,False,False,True,True,False,False,False,False,False,False,False,False,False
+R067,2022,2021–2023,Classification,10.1109/bigdata55660.2022.10020432,True,Conference,Not stated,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,False
+R068,2026,2024–2026,Detection / enumeration,10.1109/isset70600.2026.11682708,True,Conference,Public only,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+R070,2018,2017–2020,Classification,10.1109/ijcnn.2018.8489321,True,Conference,Private only,False,False,False,True,False,False,False,False,False,True,False,False,True,True,False,False,False
+R071,2021,2021–2023,Straightening,10.1109/cisp-bmei53629.2021.9624383,True,Conference,Not stated,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+R074,2019,2017–2020,Classification,10.1109/cisp-bmei48845.2019.8966038,True,Conference,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+R075,2023,2021–2023,Dataset / other,10.1109/icme55011.2023.00272,True,Conference,Public and private,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R076,2026,2024–2026,Classification,10.1109/jbhi.2025.3594369,True,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+R077,2024,2024–2026,Abnormality detection,10.1109/iccbd-ai65562.2024.00090,True,Conference,Not stated,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+R078,2026,2024–2026,Cross-site / generalization,10.23919/aidmcps00019.2026.00033,False,Conference,Not stated,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R079,2020,2017–2020,Segmentation,10.1109/bibm49941.2020.9313458,True,Conference,Public and private,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R081,2024,2024–2026,Segmentation,10.1109/ijcnn60899.2024.10650612,True,Conference,Public only,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R082,2026,2024–2026,Segmentation,10.1109/access.2026.3710474,True,Journal,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R083,2023,2021–2023,Abnormality detection,10.1109/access.2023.3257045,True,Journal,Private only,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+R084,2020,2017–2020,Abnormality detection,10.1109/iicspi51290.2020.9332331,True,Conference,Public only,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+R085,2022,2021–2023,Dataset / other,10.1109/tcbb.2021.3089507,True,Journal,Private only,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+R088,2017,2017–2020,Segmentation,10.1109/cvprw.2017.109,True,Conference,Private only,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R091,2026,2024–2026,Segmentation,10.1109/icip61757.2026.11630176,True,Conference,Not stated,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+R092,2021,2021–2023,Segmentation,10.1109/ijcnn52387.2021.9533523,True,Conference,Private only,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+R097,2026,2024–2026,Classification,10.1109/access.2026.3712267,True,Journal,Private only,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R108,2025,2024–2026,Segmentation,10.1109/tcbbio.2024.3525409,True,Journal,Not stated,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R118,2026,2024–2026,Abnormality detection,10.1109/jbhi.2026.3736793,True,Journal,Not stated,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+R127,2026,2024–2026,Abnormality detection,10.3389/fimmu.2026.1933105,True,Journal,Private only,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True
+R130,2026,2024–2026,Segmentation,10.1016/j.compbiolchem.2026.109330,True,Journal,Not stated,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+R133,2026,2024–2026,Abnormality detection,10.3389/fcell.2026.1836850,True,Journal,Private only,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R137,2026,2024–2026,System / clinical evaluation,10.1016/j.jpi.2026.100677,True,Journal,Private only,False,False,False,True,True,False,False,True,False,False,False,False,True,False,False,False,False
+R140,2026,2024–2026,Detection / enumeration,10.1038/s41598-026-52728-9,True,Journal,Not stated,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+R145,2026,2024–2026,System / clinical evaluation,10.3760/cma.j.cn511374-20250924-00568,True,Preprint,Private only,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+R147,2026,2024–2026,System / clinical evaluation,10.3390/ijms27041746,True,Journal,Private only,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+R149,2026,2024–2026,Classification,10.1038/s41598-026-38662-w,True,Journal,Public only,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False
+R152,2026,2024–2026,Abnormality detection,10.1007/s00438-025-02345-4,False,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R153,2026,2024–2026,Segmentation,10.1016/j.ymeth.2025.12.013,True,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+R155,2025,2024–2026,Segmentation,10.1007/s10577-025-09791-1,True,Journal,Public only,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R156,2025,2024–2026,System / clinical evaluation,10.1007/s00439-025-02789-z,True,Journal,Private only,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+R162,2026,2024–2026,Classification,10.1002/jemt.70070,True,Journal,Private only,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R163,2025,2024–2026,Segmentation,10.1016/j.compbiomed.2025.110943,True,Journal,Private only,False,False,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False
+R165,2026,2024–2026,Abnormality detection,10.1002/jemt.70026,True,Journal,Not stated,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+R175,2025,2024–2026,Segmentation,10.1016/j.slast.2025.100306,True,Journal,Public only,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R176,2025,2024–2026,Segmentation,10.1038/s41556-025-01637-6,True,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R179,2024,2024–2026,Abnormality detection,10.3389/fncom.2024.1525895,True,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+R182,2024,2024–2026,Detection / enumeration,10.1007/s11684-024-1098-y,False,Journal,Not stated,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+R190,2024,2024–2026,Segmentation,10.1016/j.compbiomed.2024.108601,True,Journal,Not stated,True,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+R191,2024,2024–2026,Classification,10.3760/cma.j.cn511374-20210329-00279,True,Preprint,Private only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R195,2024,2024–2026,Cross-site / generalization,10.1002/jemt.24461,True,Journal,Private only,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+R196,2023,2021–2023,Abnormality detection,10.1016/j.medengphy.2023.104064,True,Journal,Private only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R198,2024,2024–2026,Classification,10.5858/arpa.2022-0533-oa,True,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+R201,2024,2024–2026,Segmentation,10.1007/s11517-023-02896-x,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R205,2023,2021–2023,Dataset / other,10.1038/s41597-023-02003-7,True,Journal,Public only,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+R216,2022,2021–2023,Dataset / other,10.1016/j.compbiolchem.2022.107731,True,Journal,Private only,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+R217,2022,2021–2023,Dataset / other,10.3390/cells11142244,True,Journal,Not stated,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+R218,2022,2021–2023,Abnormality detection,10.1002/jemt.24170,True,Journal,Public and private,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+R221,2022,2021–2023,Segmentation,10.3390/e24040522,True,Journal,Public only,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+R222,2022,2021–2023,Classification,10.1049/syb2.12042,True,Journal,Not stated,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+R223,2022,2021–2023,Abnormality detection,10.1093/bioinformatics/btab822,True,Journal,Private only,False,False,True,True,False,False,False,False,False,True,False,False,True,False,False,False,False
+R224,2022,2021–2023,Classification,10.1016/j.cancergen.2021.11.005,True,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,False
+R225,2022,2021–2023,Metaphase selection,10.1007/s11517-021-02474-z,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R227,2021,2021–2023,Metaphase selection,10.1007/s10577-021-09676-z,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R228,2021,2021–2023,Segmentation,10.7507/1001-5515.201912029,True,Preprint,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False
+R237,2019,2017–2020,Classification,10.1089/cmb.2018.0212,True,Journal,Private only,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False
+R239,2018,2017–2020,Segmentation,10.1002/cyto.a.23375,True,Journal,Public only,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True
+R242,2026,2024–2026,Metaphase selection,10.1016/j.jestch.2025.102262,True,Journal,Not stated,False,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False
+R243,2023,2021–2023,Segmentation,10.3390/app13148007,True,Journal,Not stated,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+R244,2021,2021–2023,Segmentation,10.3233/jifs-201466,True,Journal,Public only,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R245,2023,2021–2023,Classification,10.1111/exsy.13186,True,Journal,Public only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R246,2022,2021–2023,Dataset / other,10.1007/s00371-021-02273-5,False,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+R248,2022,2021–2023,Classification,10.1007/s11045-022-00819-x,False,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R251,2019,2017–2020,Metaphase selection,10.1016/j.bspc.2019.04.017,True,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+R253,2024,2024–2026,Classification,10.1007/s11760-024-03084-6,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R254,2026,2024–2026,Dataset / other,10.1016/j.knosys.2025.114933,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R255,2024,2024–2026,Classification,10.1016/j.bspc.2023.105930,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R256,2025,2024–2026,Classification,10.3390/electronics14091820,True,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+R257,2026,2024–2026,Segmentation,10.1142/s0218001426520087,True,Journal,Private only,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+R258,2025,2024–2026,Segmentation,10.1016/j.eswa.2025.127303,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R260,2025,2024–2026,Dataset / other,10.1002/ima.70133,True,Journal,Public only,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,True
+R261,2024,2024–2026,Segmentation,10.1080/01969722.2022.2162741,True,Journal,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R262,2023,2021–2023,Metaphase selection,10.1007/s11042-023-17509-w,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R264,2026,2024–2026,Classification,10.1016/j.bspc.2026.109842,False,Journal,Not stated,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+R265,2022,2021–2023,Segmentation,10.1007/s11063-021-10629-0,False,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R267,2023,2021–2023,Segmentation,10.3390/app13042308,True,Journal,Not stated,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R270,2024,2024–2026,Segmentation,10.1016/j.bspc.2024.106298,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R271,2019,2017–2020,Classification,10.1002/ima.22287,True,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R272,2022,2021–2023,Classification,10.1016/j.bspc.2021.103120,True,Journal,Private only,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+R273,2020,2017–2020,Classification,10.1007/s00138-020-01115-z,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R279,2024,2024–2026,Classification,10.1002/ima.23041,True,Journal,Public only,False,False,False,True,True,False,False,False,False,False,True,False,False,False,False,False,False
+R280,2022,2021–2023,Metaphase selection,10.1002/ima.22741,True,Journal,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False
+R281,2020,2017–2020,Classification,10.1155/2020/8923838,True,Journal,Private only,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+R283,2023,2021–2023,Abnormality detection,10.1016/j.bspc.2023.105199,False,Journal,Not stated,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+R284,2024,2024–2026,Segmentation,10.1016/j.bspc.2023.105880,False,Journal,Not stated,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R285,2025,2024–2026,Segmentation,10.1080/01969722.2023.2296249,True,Journal,Not stated,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R288,2025,2024–2026,Classification,10.1007/s10586-025-05862-4,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R291,2025,2024–2026,System / clinical evaluation,,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R292,2022,2021–2023,Segmentation,10.3389/fgene.2022.895099,True,Journal,Not stated,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R294,2024,2024–2026,Abnormality detection,10.1016/j.jmb.2024.168733,True,Journal,Not stated,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R295,2024,2024–2026,Segmentation,10.18280/ts.410142,True,Journal,Public and private,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R304,2023,2021–2023,Classification,10.18421/tem123-02,True,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R305,2021,2021–2023,Classification,10.1007/978-3-030-86362-3_37,False,Conference,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R306,2023,2021–2023,Segmentation,10.3389/fgene.2023.1109269,True,Journal,Public only,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+R310,2019,2017–2020,Segmentation,10.1007/978-3-030-20915-5_11,False,Conference,Not stated,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+R312,2024,2024–2026,System / clinical evaluation,10.1007/s42452-024-05980-5,True,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+R313,2026,2024–2026,Cross-site / generalization,10.11834/jig.250271,True,Journal,Public only,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R315,2023,2021–2023,Abnormality detection,10.1117/12.2665703,True,Conference,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+R319,2024,2024–2026,System / clinical evaluation,10.12114/j.issn.1007-9572.2023.0549,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+R323,2024,2024–2026,Classification,10.11996/jg.j.2095-302x.2024051017,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R326,2019,2017–2020,Classification,10.1007/978-3-030-11024-6_21,False,Conference,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R333,2026,2024–2026,System / clinical evaluation,10.52764/jms.26.34.2.5,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R336,2023,2021–2023,Classification,10.3390/info14070389,True,Journal,Not stated,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+R341,2023,2021–2023,Classification,10.1117/12.2667753,True,Conference,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R345,2020,2017–2020,Cross-site / generalization,10.1088/1742-6596/1487/1/012027,True,Conference,Public only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R346,2025,2024–2026,Abnormality detection,10.22037/ijmtfm.v16.51792,True,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R349,2026,2024–2026,Cross-site / generalization,10.1007/978-981-95-5631-1_34,False,Conference,Not stated,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+R351,2025,2024–2026,Classification,10.1007/s11042-024-20242-7,False,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R352,2023,2021–2023,Classification,10.11834/jig.210669,True,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R360,2025,2024–2026,Segmentation,10.1117/12.3071659,True,Conference,Not stated,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+R372,2019,2017–2020,Segmentation,10.1016/j.procs.2019.09.207,True,Conference,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R373,2021,2021–2023,Metaphase selection,10.1142/s0219467821500339,True,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True
+R379,2021,2021–2023,Abnormality detection,10.1088/1742-6596/1964/4/042089,True,Conference,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R380,2023,2021–2023,Metaphase selection,10.1007/978-981-99-6222-8_48,False,Conference,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R383,2020,2017–2020,Segmentation,10.11834/jig.200236,True,Journal,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R385,2025,2024–2026,Abnormality detection,10.22266/ijies2025.0531.32,True,Journal,Private only,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+R395,2026,2024–2026,Cross-site / generalization,10.1038/s41698-026-01383-4,True,Journal,Not stated,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False
+R396,2024,2024–2026,Classification,10.1201/9781003487647-4,True,Journal,Public only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R404,2022,2021–2023,Abnormality detection,10.1063/5.0072491,True,Conference,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R405,2022,2021–2023,Segmentation,10.1007/978-3-031-15919-0_33,False,Conference,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R406,2021,2021–2023,Segmentation,10.1145/3502827.3502834,True,Conference,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False
+R419,2022,2021–2023,Classification,10.1145/3532213.3532294,True,Conference,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R430,2025,2024–2026,Classification,,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R432,2025,2024–2026,Segmentation,10.1007/s41870-025-02464-6,False,Journal,Not stated,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R434,2022,2021–2023,Classification,10.1007/978-3-031-16440-8_1,False,Conference,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+R438,2020,2017–2020,Segmentation,10.1007/978-3-030-60029-7_34,False,Conference,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+R444,2024,2024–2026,Segmentation,10.1117/12.3038742,True,Conference,Not stated,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+R446,2024,2024–2026,Segmentation,10.11834/jig.230599,True,Journal,Public only,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+R447,2021,2021–2023,Segmentation,10.1016/j.media.2020.101943,True,Journal,Private only,False,False,True,True,False,True,False,False,False,False,True,False,False,False,False,False,False
+R454,2022,2021–2023,Classification,10.36548/jiip.2022.1.001,True,Journal,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+R459,2022,2021–2023,Classification,10.13164/eeict.2022.158,True,Conference,Public only,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False
+hu2017overlap,2017,2017–2020,Segmentation,10.48550/arxiv.1712.07639,True,Preprint,Not stated,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+wang2021arms,2021,2021–2023,Segmentation,10.1016/j.bspc.2021.102811,False,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+liu2023disentangled,2023,2021–2023,Straightening,10.1080/01969722.2023.2296250,True,Journal,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+zheng2022chrsnet,2022,2021–2023,Straightening,10.1007/978-3-031-16440-8_12,False,Conference,Not stated,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+lima2026aycromo,2026,2024–2026,System / clinical evaluation,10.48550/arxiv.2604.24685,True,Preprint,Public and private,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+chang2023supcon,2023,2021–2023,Classification,10.48550/arxiv.2312.07623,True,Preprint,Not stated,False,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False
+zhao2023contrastive,2024,2024–2026,Classification,10.1016/j.bspc.2023.105825,False,Journal,Not stated,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+shamsi2022karyoai,2022,2021–2023,Abnormality detection,10.48550/arxiv.2211.14312,True,Preprint,Private only,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+tokensome2024,2024,2024–2026,Classification,10.48550/arxiv.2403.11073,True,Preprint,Not stated,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+yan2019t922,2019,2017–2020,Abnormality detection,10.4236/jcc.2019.712010,True,Journal,Private only,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+zhang2026perturb,2026,2024–2026,Abnormality detection,10.48550/arxiv.2604.00854,True,Preprint,Not stated,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+haferlach2020,2020,2017–2020,System / clinical evaluation,10.1182/blood-2020-137463,True,Journal,Private only,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+kayra2026,2026,2024–2026,System / clinical evaluation,10.48550/arxiv.2604.26869,True,Preprint,Private only,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False
+burnside2025gimo,2025,2024–2026,System / clinical evaluation,10.1016/j.gimo.2025.103053,False,Journal,Not stated,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False

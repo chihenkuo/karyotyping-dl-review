@@ -1,0 +1,7 @@
+# downloaded abstracts (publisher copyright) and local re-runs
+work/
+results_rerun/
+figures/*_rerun.*
+figures/*_check.*
+__pycache__/
+*.pyc

@@ -1,0 +1,152 @@
+{
+ "N": 207,
+ "with_abstract": 168,
+ "period_n": {
+  "2021–2023": 73,
+  "2017–2020": 37,
+  "2024–2026": 97
+ },
+ "venue": {
+  "Conference": 79,
+  "Journal": 118,
+  "Preprint": 10
+ },
+ "data": {
+  "Not stated": 132,
+  "Private only": 40,
+  "Public only": 29,
+  "Public and private": 6
+ },
+ "external": 12,
+ "patient_split": 2,
+ "code": 15,
+ "arch_by_period": {
+  "CNN classifier": {
+   "2021–2023": 37,
+   "2017–2020": 23,
+   "2024–2026": 38
+  },
+  "Object detector": {
+   "2021–2023": 5,
+   "2017–2020": 3,
+   "2024–2026": 20
+  },
+  "Segmentation network": {
+   "2021–2023": 13,
+   "2017–2020": 7,
+   "2024–2026": 24
+  },
+  "Transformer": {
+   "2021–2023": 10,
+   "2017–2020": 0,
+   "2024–2026": 11
+  },
+  "Generative model": {
+   "2021–2023": 6,
+   "2017–2020": 3,
+   "2024–2026": 7
+  },
+  "Foundation, SSL or language model": {
+   "2021–2023": 2,
+   "2017–2020": 0,
+   "2024–2026": 9
+  },
+  "Graph or recurrent model": {
+   "2021–2023": 2,
+   "2017–2020": 1,
+   "2024–2026": 1
+  }
+ },
+ "arch_total": {
+  "CNN classifier": 98,
+  "Object detector": 28,
+  "Segmentation network": 44,
+  "Transformer": 21,
+  "Generative model": 16,
+  "Foundation, SSL or language model": 11,
+  "Graph or recurrent model": 4
+ },
+ "spec": {
+  "Amniotic fluid / prenatal": 19,
+  "Peripheral blood": 2,
+  "Bone marrow / oncology": 25
+ },
+ "band": {
+  "G-band": 22,
+  "Q-band / DAPI": 6,
+  "R-band": 5,
+  "Multicolour FISH": 7
+ },
+ "external_by_task": {
+  "Abnormality detection": [
+   1,
+   30
+  ],
+  "Classification": [
+   1,
+   61
+  ],
+  "Cross-site / generalization": [
+   6,
+   8
+  ],
+  "Dataset / other": [
+   1,
+   11
+  ],
+  "Detection / enumeration": [
+   1,
+   9
+  ],
+  "Metaphase selection": [
+   0,
+   12
+  ],
+  "Segmentation": [
+   1,
+   54
+  ],
+  "Straightening": [
+   0,
+   7
+  ],
+  "System / clinical evaluation": [
+   1,
+   15
+  ]
+ },
+ "data_by_period": {
+  "2021–2023": {
+   "Not stated": 49,
+   "Private only": 13,
+   "Public only": 9,
+   "Public and private": 2
+  },
+  "2017–2020": {
+   "Not stated": 21,
+   "Private only": 11,
+   "Public only": 4,
+   "Public and private": 1
+  },
+  "2024–2026": {
+   "Private only": 16,
+   "Public only": 16,
+   "Not stated": 62,
+   "Public and private": 3
+  }
+ },
+ "external_by_period": {
+  "2021–2023": [
+   0,
+   73
+  ],
+  "2017–2020": [
+   0,
+   37
+  ],
+  "2024–2026": [
+   12,
+   97
+  ]
+ }
+}

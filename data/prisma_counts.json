@@ -1,0 +1,61 @@
+{
+ "per_db": {
+  "IEEE Xplore": 125,
+  "PubMed": 128,
+  "Web of Science": 170,
+  "Scopus": 431
+ },
+ "n_records": 854,
+ "n_unique": 476,
+ "duplicates": 378,
+ "screened": 476,
+ "excluded_screen": 277,
+ "excluded_reasons": {
+  "no deep learning": 18,
+  "cytogenetic assay other than karyotyping (biodosimetry, SCE, cohesion, ecDNA)": 26,
+  "not human chromosome (karyotype) image analysis": 179,
+  "review, editorial, or other non-research item": 54
+ },
+ "sought": 199,
+ "not_retrieved": 4,
+ "assessed": 195,
+ "excluded_elig": 2,
+ "elig_reasons": {
+  "R058": "earlier conference version of an included journal article (R267)",
+  "R286": "radiation biodosimetry (unstable aberrations), identified from the full text"
+ },
+ "other_identified": 16,
+ "other_dup": 1,
+ "other_nr": 1,
+ "included_db": 193,
+ "other": 14,
+ "included": 207,
+ "kappa": 0.66,
+ "agree": 397,
+ "disagree": 79,
+ "po": 0.834,
+ "per_year": {
+  "2017": 3,
+  "2018": 5,
+  "2019": 11,
+  "2020": 18,
+  "2021": 15,
+  "2022": 31,
+  "2023": 27,
+  "2024": 34,
+  "2025": 30,
+  "2026": 33
+ },
+ "per_cat": {
+  "Classification": 61,
+  "Segmentation": 54,
+  "Abnormality detection": 30,
+  "System / clinical evaluation": 15,
+  "Metaphase selection": 12,
+  "Dataset / other": 11,
+  "Detection / enumeration": 9,
+  "Cross-site / generalization": 8,
+  "Straightening": 7
+ },
+ "cited_included": 127
+}
