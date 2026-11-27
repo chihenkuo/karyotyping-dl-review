@@ -4,12 +4,15 @@ This repository contains the screening records, coded study tables, and analysis
 
 > Lu C-H, Tseng J-J, Kuo C-E. *Deep Learning for Automated Chromosome Karyotyping: A Systematic Review from Metaphase Detection to Cross-Institutional Deployment.* Manuscript submitted for publication, 2026.
 
+A preprint of the full manuscript is available in [`paper/Lu2026_karyotyping_DL_review_preprint_v1.pdf`](paper/Lu2026_karyotyping_DL_review_preprint_v1.pdf) (version 1, 28 November 2026). It has not been peer reviewed.
+
 The review follows PRISMA 2020. Searches of Scopus, Web of Science Core Collection, IEEE Xplore, and PubMed (October 2026, publication years 2017–2026) returned 854 records. After 378 duplicates were removed, 476 records were screened, and 207 studies were included: 193 from the databases and 14 from citation chasing and preprint servers. The files here reproduce the PRISMA counts (Fig. 2a), the quantitative analysis in Sect. 3, and Fig. 3 of the review.
 
 ## Contents
 
 | Path | Description |
 |---|---|
+| `paper/` | Preprint of the review (PDF, version 1, not peer reviewed) |
 | `data/screening_records.csv` | All 476 unique database records with the two screening passes (rule-based keyword screen and LLM-assisted reviewer screen), the consensus decision, final status, task category, and citation key in the review |
 | `data/other_sources.csv` | The 14 studies added by citation chasing and preprint servers |
 | `data/prisma_counts.json` | Counts behind the PRISMA 2020 flow diagram and the inter-pass agreement (Cohen's κ = 0.66) |
@@ -46,7 +49,7 @@ To redraw Fig. 3 exactly as it appears in the manuscript, run `python scripts/ma
 
 ## Licences
 
-The code is released under the MIT License (`LICENSE`). The data tables and figure are released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0, `DATA_LICENSE.md`). Titles, DOIs, and venue names are bibliographic metadata of the cited works.
+The code is released under the MIT License (`LICENSE`). The data tables and figure are released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0, `DATA_LICENSE.md`). Titles, DOIs, and venue names are bibliographic metadata of the cited works. The preprint in `paper/` is copyright of the authors (all rights reserved); the MIT and CC BY 4.0 licences do not apply to it.
 
 ## Contact
 
