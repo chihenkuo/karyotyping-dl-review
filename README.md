@@ -42,7 +42,7 @@ python scripts/core_coding.py results_rerun       # summary of the manual full-t
 python scripts/make_quant_figure.py results_rerun figures/Fig3_rerun --print
 ```
 
-To redraw Fig. 3 exactly as published, run `python scripts/make_quant_figure.py results figures/Fig3_check --print`. With the abstracts available when the review was written (OpenAlex for 159 studies, Semantic Scholar for 9, none for 39), `code_studies.py` reproduces `results/coded_studies.csv` exactly. The databases change over time, so a fresh download may return a slightly different set of abstracts.
+To redraw Fig. 3 exactly as it appears in the manuscript, run `python scripts/make_quant_figure.py results figures/Fig3_check --print`. With the abstracts available when the review was written (OpenAlex for 159 studies, Semantic Scholar for 9, none for 39), `code_studies.py` reproduces `results/coded_studies.csv` exactly. The databases change over time, so a fresh download may return a slightly different set of abstracts.
 
 ## Licences
 

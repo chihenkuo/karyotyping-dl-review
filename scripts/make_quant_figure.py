@@ -2,8 +2,8 @@
 
 Usage: python scripts/make_quant_figure.py <results_dir> <out_stem> [--print]   (writes <out_stem>.pdf and .png)
 Example: python scripts/make_quant_figure.py results figures/Fig3_quantitative_overview --print
---print draws the published layout at the 13.1-cm text width with all text at 8 pt or larger; without it the
-script draws an earlier, larger 2 x 2 layout.
+--print draws the manuscript layout, 13.1 cm wide, with all text at 8 pt or larger; without it the script draws
+an earlier, larger 2 x 2 layout.
 """
 import csv
 import json
@@ -38,7 +38,7 @@ else:
 PER_COL = ["#BBD4EA", "#5B9BD5", "#1F4E79"]
 
 if PRINT:
-    # Print layout for the 13.1-cm text width: (a) across the top, (b)-(d) side by side below, all text >= 8 pt.
+    # Manuscript layout, 13.1 cm wide: (a) across the top, (b)-(d) side by side below, all text >= 8 pt.
     FW, FH = 5.1, 5.25
     fig = plt.figure(figsize=(FW, FH))
 
